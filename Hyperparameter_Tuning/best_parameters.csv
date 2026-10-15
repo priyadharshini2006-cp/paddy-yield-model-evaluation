@@ -1,0 +1,12 @@
+Method,Parameter,Best value
+GridSearchCV,learning_rate,0.05
+GridSearchCV,max_depth,2.0
+GridSearchCV,n_estimators,100.0
+GridSearchCV,subsample,0.8
+RandomizedSearchCV,learning_rate,0.0629
+RandomizedSearchCV,max_depth,2.0
+RandomizedSearchCV,max_features,0.744
+RandomizedSearchCV,min_samples_leaf,14.0
+RandomizedSearchCV,min_samples_split,3.0
+RandomizedSearchCV,n_estimators,152.0
+RandomizedSearchCV,subsample,0.7958
